@@ -1,0 +1,1 @@
+C:\Users\mlapalma\Desktop\InterviewCodeReview\UnitTestLogMessage\obj\Debug\UnitTestLogMessage.csprojResolveAssemblyReference.cache

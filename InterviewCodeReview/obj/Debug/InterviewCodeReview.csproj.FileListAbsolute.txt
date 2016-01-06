@@ -1,0 +1,6 @@
+C:\Users\mlapalma\Desktop\InterviewCodeReview\InterviewCodeReview\obj\Debug\InterviewCodeReview.csprojResolveAssemblyReference.cache
+C:\Users\mlapalma\Desktop\InterviewCodeReview\InterviewCodeReview\bin\Debug\InterviewCodeReview.exe.config
+C:\Users\mlapalma\Desktop\InterviewCodeReview\InterviewCodeReview\bin\Debug\InterviewCodeReview.exe
+C:\Users\mlapalma\Desktop\InterviewCodeReview\InterviewCodeReview\bin\Debug\InterviewCodeReview.pdb
+C:\Users\mlapalma\Desktop\InterviewCodeReview\InterviewCodeReview\obj\Debug\InterviewCodeReview.exe
+C:\Users\mlapalma\Desktop\InterviewCodeReview\InterviewCodeReview\obj\Debug\InterviewCodeReview.pdb
